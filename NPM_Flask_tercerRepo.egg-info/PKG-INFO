@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: NPM_Flask_tercerRepo
+Version: 0.1.0
+Summary: Un paquete pip simple de saludo
+Home-page: https://github.com/JulLapad/NPM_Flask_tercerRepo.git
+Author: Jul_Lapad
+Author-email: jmop9733@gmail.com
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: summary

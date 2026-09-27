@@ -1,0 +1,7 @@
+README.md
+setup.py
+NPM_Flask_tercerRepo/__init__.py
+NPM_Flask_tercerRepo.egg-info/PKG-INFO
+NPM_Flask_tercerRepo.egg-info/SOURCES.txt
+NPM_Flask_tercerRepo.egg-info/dependency_links.txt
+NPM_Flask_tercerRepo.egg-info/top_level.txt
